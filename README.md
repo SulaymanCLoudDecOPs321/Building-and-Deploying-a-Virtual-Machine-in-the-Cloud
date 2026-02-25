@@ -5,11 +5,11 @@
 
 Author: Sulayman Faye
 
-📌 Overview
+Overview:
 
 This project demonstrates the deployment and configuration of a Virtual Machine (VM) in Microsoft Azure, including networking, security, and remote access setup.
 
-🎯 Deployment Summary
+Deployment Summary:
 
 Created a Resource Group to organize cloud resources
 
@@ -31,6 +31,6 @@ Verified system functionality and connectivity
 
 Applied basic security and monitoring best practices
 
-🚀 Outcome
+Outcome:
 
 The Virtual Machine was successfully deployed and configured in Azure, demonstrating hands-on experience in cloud infrastructure provisioning, networking configuration, and secure remote access management.
